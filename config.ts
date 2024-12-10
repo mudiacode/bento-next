@@ -16,7 +16,7 @@ export const config: Config = {
   title: 'Bento',
 
   // Clock
-  twelveHourFormat: true,
+  twelveHourFormat: false,
   flashSeparator: false,
 
   // Font Family
